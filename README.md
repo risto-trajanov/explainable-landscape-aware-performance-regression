@@ -1,6 +1,6 @@
 # explainable-landscape-aware-performance-regression
 
-## Running local
+## Running localy
 
 ```
 conda create --name ELAenv python=3.7
