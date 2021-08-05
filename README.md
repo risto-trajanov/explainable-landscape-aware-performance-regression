@@ -9,7 +9,7 @@ conda activate ELAenv
 Install the requirements
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Set the folders path in ```settings.py```
