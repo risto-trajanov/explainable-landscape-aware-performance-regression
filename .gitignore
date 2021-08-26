@@ -139,6 +139,3 @@ cython_debug/
 
 # IDE
 .idea
-
-# Result Folder
-results/
