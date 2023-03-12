@@ -17,3 +17,7 @@ Set the folders path in ```settings.py```
 ```python train.py``` to train the models. 
 
 Remember to check the code in ```train.py``` to uncomment if you want to train the bigger models. 
+
+# ArXiv
+
+https://arxiv.org/pdf/2110.11633.pdf
